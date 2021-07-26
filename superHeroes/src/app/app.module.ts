@@ -14,6 +14,9 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
 import { HeroesComponent } from './heroes/heroes.component';
 import { AboutComponent } from './about/about.component';
+import { HeroeComponent } from './heroe/heroe.component';
+import { BuscadorComponent } from './buscador/buscador.component';
+
 
 
 
@@ -23,7 +26,9 @@ import { AboutComponent } from './about/about.component';
     NavbarComponent,
     HomeComponent,
     HeroesComponent,
-    AboutComponent
+    AboutComponent,
+    HeroeComponent,
+    BuscadorComponent,
   ],
   imports: [
     BrowserModule,

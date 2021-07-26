@@ -1,25 +1,75 @@
 body{
   padding-bottom: 50px;
+  background-color: #151515;
+  color:#151515 ;
+
 }
 
 .main-container{
   margin-top: 30px
 }
+.nav-link{
+  font-size: 20px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out 0s;
+}
+.nav-link:hover{
+  background: rgba(136,22,0);
+  box-shadow: rgb(31 47 71 / 25%) 0px 20px 40px, rgb(0 0 0 / 10%) 0px 1px 5px, rgb(255 255 255 / 40%) 0px 0px 0px 0.5px inset;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+h3{
+  color: rgba(136,22,0);
+}
+p{
+  color: white;
+  font-size: 16px;
+}
+
+.title{
+  color: rgba(136,22,0);
+  text-align: center;
+}
 .card{
   display: inline-block;
-  width: 432px;
+  width: 340px;
   align-items: center;
   text-align-last: center;
   border: solid 1px gray;
   border-radius: 10px;
+  transition: all 0.20s;
+  overflow: hidden;
+  background-color: #ffffff3f;
+  box-shadow: 0px 7px 20px rgb(233 230 230);
+  margin: 20px;
+}
 
+.card:hover{
+  transform: translateY(-10px);
+  box-shadow: 0px 12px 10px rgba(136,22,0) ;
 }
 
 .card img{
-  width:250px
+  width: 200px;
+  height: 300px;
+  margin-top: 50px;
 }
 
-button{
+.btn-outline-primary{
+  width: 100%;
+}
+
+.card-title{
+  color: black;
+}
+
+.img-logo{
+  width: 200px;
+}
+
+.imagenFondo img{
   width: 100%;
 }
 

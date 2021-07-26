@@ -6,64 +6,70 @@
     private heroes:Heroe[] =[
       {
         nombre: "Black Widow",
-        bio: `En 1995, los agentes secretos rusos, el supersoldado Alexei Shostakov y la Viuda Negra Melina Vostokoff, se hacen pasar por una familia normal en Ohio con sus hijas de alquiler Natasha Romanoff y Yelena Belova. Cuando la misión de robar información de S.H.I.E.L.D. se completa, la familia escapa a Cuba y se reúne con su jefe, el general Dreykov, que hace que Romanoff y Belova sean llevadas a la Sala Roja para su entrenamiento. Pasan los años y Shostakov es encarcelado en Rusia, mientras que Romanoff deserta a S.H.I.E.L.D. después de bombardear la oficina de Dreykov en Budapest, aparentemente matándolo a él y a su joven hija Antonia; un acto que persigue a Romanoff.
-
-        En 2016, Romanoff es una fugitiva por violar los Acuerdos de Sokovia. Escapa del Secretario de Estado de los Estados Unidos Thaddeus Ross y huye a un piso franco en Noruega suministrado por Rick Mason. Mientras tanto, Belova mata a una ex Viuda Negra renegada, pero entra en contacto con un gas sintético que neutraliza el agente químico de control mental de la Sala Roja. Belova envía el antídoto a Romanoff con la esperanza de que vuelva para ayudar a Belova a liberar a las otras Viudas. Cuando Romanoff se aleja con el antídoto sin saberlo, es atacada por Taskmaster,un asesino especial de la Habitación Roja que copia los poderes de superhéroes y villanos que ve,que la busca. Romanoff consigue escapar de Taskmaster y se da cuenta de que el antídoto procedía de Belova. Las dos se reúnen en Budapest, donde Romanoff se entera de que Dreykov sigue vivo y de que la Sala Roja sigue activa. Poco después, son atacadas por las Viudas Negras, y Romanoff y Belova evaden a las Viudas y a Taskmaster antes de encontrarse con Mason, que les proporciona un helicóptero.
-
-        Romanoff y Belova sacan a Shostakov de la cárcel para conocer la ubicación de Dreykov. Éste les dice que hablen con Vostokoff, que vive en una granja a las afueras de San Petersburgo, donde desarrolló el proceso de control mental químico utilizado en las Viudas. Allí, Belova revela que, aunque no eran una familia real, ella creía que lo eran. Vostokoff admite que envió su ubicación a Dreykov, cuyos agentes llegan y las llevan a la Sala Roja, una instalación aérea.
-
-        Vostokoff y Romanoff utilizan la tecnología de las máscaras faciales para cambiar de lugar antes de ser capturadas, lo que permite a Vostokoff liberar a Shostakov y Belova de sus ataduras. Mientras tanto, Romanoff se enfrenta a Dreykov, que descubre su disfraz. Romanoff se entera de que Taskmaster es Antonia, que sufrió daños tan graves que Dreykov tuvo que ponerle un chip en la cabeza, convirtiéndola en la soldado perfecta, capaz de imitar las acciones de cualquiera que vea, incluidos varios Vengadores. Romanoff intenta matar a Dreykov, pero no consigue dañarlo debido a un bloqueo de feromonas que ha instalado en todas las Viudas. Dreykov revela que controla a las Viudas de todo el mundo a través de la consola de su escritorio. Romanoff se rompe intencionadamente la nariz, seccionando un nervio de su conducto nasal para anular la feromona, y luego ataca a Dreykov. Shostakov lucha contra Taskmaster, mientras Vostokoff destruye uno de los motores de la instalación, y Belova busca a las otras Viudas, que son enviadas para proteger a Dreykov. Juntos, Shostakov y Belova encierran a Taskmaster en una celda.
-
-        Dreykov escapa mientras las Viudas atacan a Romanoff, pero Belova crea una bomba antídoto que libera a las Viudas del control mental. Romanoff se introduce en la mesa de control y copia las ubicaciones de las demás Viudas en todo el mundo mientras la instalación empieza a explotar y a caer. Romanoff recupera los dos viales supervivientes del antídoto y libera a Taskmaster de la celda cerrada. Vostokoff y Shostakov escapan en un avión justo cuando Belova derriba el helicóptero de Dreykov, matándolo. Romanoff le da a Belova un paracaídas antes de enfrentarse a Taskmaster en caída libre. Tras aterrizar, Romanoff utiliza el antídoto en Taskmaster, liberándola de su servidumbre. Las viudas liberadas llegan mientras Belova, Vostokoff y Shostakov se despiden de Romanoff. Ésta le da a Belova el último frasco de antídoto y la unidad portátil, diciéndole que encuentre y libere a las otras Viudas, aún controladas mentalmente. Mientras se van con Antonia, Romanoff espera a Ross y sus hombres, que han llegado para detenerla.
-
-        Dos semanas después, Romanoff se reúne con Mason, que le proporciona un Quinjet. Se marcha con la intención de liberar a los Vengadores detenidos en la Balsa.
-
-        En una escena poscréditos ambientada tras la muerte de Romanoff, Belova se encuentra con la Condesa Valentina Allegra de Fontaine en la tumba de Romanoff. De Fontaine asigna a Clint Barton, al que considera responsable de la muerte de Romanoff, como próximo objetivo de Belova.`,
+        bio: ` No tiene superpoderes, pero fue entrenada como superespía por la Madre Rusia y sabe manejar todo tipo de armas (incluso las más avanzadas tecnológicamente).
+       `,
         img: "assets/img/blackwidow.png",
         aparicion: "1995-11-01",
-        casa:"Marvel Studios"
+        casa:"Marvel Studios",
+        wiki:` es una película de superhéroes estadounidense de 2021 basada en el personaje de Marvel Comics del mismo nombre. Producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures, es la vigésimo cuarta película en el Universo cinematográfico de Marvel (MCU, por sus siglas en inglés). La película fue dirigida por Cate Shortland y escrita por Eric Pearson a partir de una historia de Jac Schaeffer y Ned Benson, y está protagonizada por Scarlett Johansson como Natasha Romanoff/Black Widow junto a Florence Pugh, David Harbour, O. T. Fagbenle, Olga Kurylenko, William Hurt, Ray Winstone y Rachel Weisz. Ambientada después de Capitán América: Civil War (2016), la película sigue a Romanoff huyendo de la justicia y obligada a enfrentarse a su pasado.
+
+        El desarrollo de una película de Black Widow comenzó en abril de 2004 por Lionsgate, con David Hayter adjunto para escribir y dirigir. El proyecto no avanzó y los derechos cinematográficos del personaje volvieron a Marvel Studios en junio de 2006. Johansson fue elegida para el papel en varias películas del UCM, comenzando con Iron Man 2 (2010). Marvel y Johansson expresaron interés en una película en solitario varias veces durante los años siguientes, antes de que Schaeffer y Shortland fueran contratados en 2018. Benson se unió a principios de 2019, y Pearson se agregó más tarde. El rodaje tuvo lugar de mayo a octubre de 2019, en Noruega, Budapest, Marruecos, los Pinewood Studios en el Reino Unido, y en Atlanta y Macon, Georgia.
+
+        Black Widow se estrenó el 29 de junio de 2021 en varios eventos alrededor del mundo, y se estrenó en Estados Unidos el 9 de julio simultáneamente en cines y a través de Disney+ con Premier Access. Es la primera película en la Fase Cuatro del UCM, y se retrasó tres veces desde la fecha de estreno original de mayo de 2020 debido a la pandemia de COVID-19. Viuda Negra batió varios récords de taquilla en su estreno, y ha recaudado más de $314 millones en todo el mundo, convirtiéndose en la quinta película más taquillera de 2021; también obtuvo $60 millones en ingresos globales de Disney+ en su fin de semana de estreno. La película recibió críticas generalmente favorables por parte de la crítica, con elogios para las actuaciones, en particular de Johansson y Pugh, y las secuencias de acción.`
       },
       {
         nombre: "Batman",
-        bio: "Los rasgos principales de Batman se resumen en Â«destreza fÃ­sica, habilidades deductivas y obsesiÃ³nÂ». La mayor parte de las caracterÃ­sticas bÃ¡sicas de los cÃ³mics han variado por las diferentes interpretaciones que le han dado al personaje.",
-        img: "assets/img/batman.png",
+        bio: "Entrenado desde su niñez con el objetivo de algún día combatir el crimen, Batman representa el pináculo de la perfección humana. Atleta a nivel olímpico.",
+        img: "assets/img/batman.jpg",
         aparicion: "1939-05-01",
-        casa:"DC"
+        casa:"DC",
+        wiki:`es un personaje de cómic creado por los estadounidenses Bob Kane y Bill Finger,13​ y propiedad de DC Comics. Apareció por primera vez en la historia titulada «El caso del sindicato químico» de la revista Detective Comics N.º 27, lanzada por la editorial National Publications el 30 de marzo de 1939.
+
+        La identidad secreta de Batman es Bruce Wayne (Bruno Díaz en algunos países de habla hispana),14​15​16​ un multimillonario magnate empresarial y filántropo dueño de Empresas Wayne en Gotham City. Después de presenciar el asesinato de sus padres, el Dr. Thomas Wayne y Martha Wayne en un violento y fallido asalto cuando era niño, juró venganza contra los criminales, un juramento moderado por el sentido de la justicia. Bruce Wayne se entrena física e intelectualmente y crea un traje inspirado en los murciélagos para combatir el crimen, con sus gadgets de combate del batcinturón y sus vehículos.17​
+
+        A diferencia de los superhéroes, no tiene superpoderes: recurre a su intelecto, así como a aplicaciones científicas y tecnológicas para crear armas y herramientas con las cuales lleva a cabo sus actividades. Vive en la mansión Wayne, en cuyos subterráneos se encuentra la Batcueva, el centro de operaciones de Batman. Recibe la ayuda constante de otros aliados, entre los cuales pueden mencionarse Robin, Batgirl (posteriormente Oráculo), Nightwing, el comisionado de la policía local, James Gordon, y su mayordomo Alfred Pennyworth. Una gran variedad de villanos conforman la galería de Batman, incluido su archienemigo, el Joker.
+
+        Se trata de uno de los personajes más emblemáticos de DC Comics. Dada su buena aceptación, obtuvo su propia revista en 1940. Tres años después, Columbia Pictures estrenó la primera adaptación para la televisión del personaje, a la cual le siguió la serie Batman y Robin, en 1949. A mediados de la década de 1960, se lanzó otra serie titulada Batman, que utilizó un concepto más «camp» que terminó apartándolo de su tono sombrío con el que originalmente fue concebido. Más adelante, los escritores Dennis O'Neil, Neal Adams y Frank Miller produjeron nuevo material escrito sobre el universo de Batman entre los años 1970 y 1980, retomando el diseño y elementos originales de la franquicia. Se considera que la película homónima de Tim Burton, estrenada en 1989, tuvo un papel importante en la popularidad contemporánea del hombre murciélago, al igual que la serie de filmes iniciada con Batman Begins en 2005, dirigida por Christopher Nolan.18​ Además de las anteriores producciones, existen varias otras más en las que el personaje y sus elementos han sido incorporados. El actor Ben Affleck lo interpreta en las películas del Universo extendido de DC Batman v Superman: Dawn of Justice (2016), Escuadrón Suicida (2016) y Liga de la Justicia (2017).`
       },
       {
         nombre: "Daredevil",
-        bio: "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiaciÃ³n a niveles superhumanos, en el accidente que tuvo cuando era niÃ±o. A pesar de su ceguera, puede \"ver\" a travÃ©s de un \"sexto sentido\" que le sirve como un radar similar al de los murciÃ©lagos.",
+        bio: "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiaciÃ³n a niveles superhumanos",
         img: "assets/img/daredevil.png",
         aparicion: "1964-01-01",
-        casa: "Marvel"
+        casa: "Marvel",
+        wiki:``
       },
       {
         nombre: "Hulk",
         bio: "Su principal poder es su capacidad de aumentar su fuerza hasta niveles prÃ¡cticamente ilimitados a la vez que aumenta su furia. Dependiendo de quÃ© personalidad de Hulk estÃ© al mando en ese momento (el Hulk Banner es el mÃ¡s dÃ©bil, pero lo compensa con su inteligencia).",
         img: "assets/img/hulk.png",
         aparicion: "1962-05-01",
-        casa:"Marvel"
+        casa:"Marvel",
+        wiki:``
       },
       {
         nombre: "Linterna Verde",
-        bio: "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sÃ³lida mediante la utilizaciÃ³n del pensamiento. Es alimentado por la Llama Verde (revisada por escritores posteriores como un poder mÃ­stico llamado Starheart), una llama mÃ¡gica contenida en dentro de un orbe (el orbe era en realidad un meteorito verde de metal que cayÃ³ a la Tierra, el cual encontrÃ³ un fabricante de lÃ¡mparas llamado Chang)",
-        img: "assets/img/linterna-verde.png",
+        bio: "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sÃ³lida mediante la utilizaciÃ³n del pensamiento. Es alimentado por la Llama Verde (revisada por escritores posteriores como un poder mÃ­stico llamado Starheart), una llama mÃ¡gica contenida en dentro de un orbe ",
+        img: "assets/img/linternaV.png",
         aparicion: "1940-06-01",
-        casa: "DC"
+        casa: "DC",
+        wiki:``
       },
       {
         nombre: "Spider-Man",
-        bio: "Tras ser mordido por una araÃ±a radiactiva, obtuvo los siguientes poderes sobrehumanos, una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider-Man le permite levantar 10 toneladas o mÃ¡s. Gracias a esta gran fuerza Spider-Man puede realizar saltos Ã­ncreibles. Un \"sentido arÃ¡cnido\", que le permite saber si un peligro se cierne sobre Ã©l, antes de que suceda. En ocasiones este puede llevar a Spider-Man al origen del peligro.",
+        bio: "Tras ser mordido por una araÃ±a radiactiva, obtuvo los siguientes poderes sobrehumanos, una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider-Man le permite levantar 10 toneladas o mÃ¡s. Gracias a esta gran fuerza Spider-Man puede realizar saltos Ã­ncreibles.",
         img: "assets/img/spiderman.png",
         aparicion: "1962-08-01",
-        casa: "Marvel"
+        casa: "Marvel",
+        wiki:``
       },
       {
         nombre: "Wolverine",
         bio: "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que Ã©sta sea, ademÃ¡s ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres . Posee tambiÃ©n una fuerza sobrehumana, que si bien no se compara con la de otros superhÃ©roes como Hulk, sÃ­ sobrepasa la de cualquier humano.",
-        img: "assets/img/wolverine.png",
+        img: "assets/img/wolverine1.png",
         aparicion: "1974-11-01",
-        casa: "Marvel"
+        casa: "Marvel",
+        wiki:``
       }
     ];
 
@@ -74,6 +80,26 @@
     getHeroes():Heroe[]{
       return this.heroes;
     }
+
+    getHeroe(idx:number){
+      return this.heroes[idx];
+    }
+
+    buscarHeroes( termino:string){
+
+      let heroesArray: Heroe[] = [];
+      termino = termino.toLowerCase();
+
+      for(let heroe of this.heroes){
+
+        let name = heroe.nombre.toLowerCase();
+        if(name.indexOf(termino) >= 0){
+          heroesArray.push(heroe);
+        }
+      }
+      return heroesArray;
+
+    }
  }
 
   export interface Heroe{
@@ -82,6 +108,7 @@
     img:string;
     aparicion:string;
     casa:string;
+    wiki:string;
 
  }
 
