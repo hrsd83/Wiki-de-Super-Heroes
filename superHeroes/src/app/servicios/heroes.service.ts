@@ -6,8 +6,8 @@
     private heroes:Heroe[] =[
       {
         nombre: "Black Widow",
-        bio: ` No tiene superpoderes, pero fue entrenada como superespía por la Madre Rusia y sabe manejar todo tipo de armas (incluso las más avanzadas tecnológicamente).
-       `,
+        resumen: ` No tiene superpoderes, pero fue entrenada como superespía por la Madre Rusia y sabe manejar todo tipo de armas (incluso las más avanzadas tecnológicamente).`,
+        habilidades:``,
         img: "assets/img/blackwidow.png",
         aparicion: "1995-11-01",
         casa:"Marvel Studios",
@@ -19,7 +19,8 @@
       },
       {
         nombre: "Batman",
-        bio: "Entrenado desde su niñez con el objetivo de algún día combatir el crimen, Batman representa el pináculo de la perfección humana. Atleta a nivel olímpico.",
+        resumen: "Entrenado desde su niñez con el objetivo de algún día combatir el crimen, Batman representa el pináculo de la perfección humana. Atleta a nivel olímpico.",
+        habilidades: "",
         img: "assets/img/batman.jpg",
         aparicion: "1939-05-01",
         casa:"DC",
@@ -33,7 +34,8 @@
       },
       {
         nombre: "Daredevil",
-        bio: "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiaciÃ³n a niveles superhumanos",
+        resumen: "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiaciÃ³n a niveles superhumanos",
+        habilidades: "",
         img: "assets/img/daredevil.png",
         aparicion: "1964-01-01",
         casa: "Marvel",
@@ -41,7 +43,8 @@
       },
       {
         nombre: "Hulk",
-        bio: "Su principal poder es su capacidad de aumentar su fuerza hasta niveles prÃ¡cticamente ilimitados a la vez que aumenta su furia. Dependiendo de quÃ© personalidad de Hulk estÃ© al mando en ese momento (el Hulk Banner es el mÃ¡s dÃ©bil, pero lo compensa con su inteligencia).",
+        resumen: "Su principal poder es su capacidad de aumentar su fuerza hasta niveles prÃ¡cticamente ilimitados a la vez que aumenta su furia. Dependiendo de quÃ© personalidad de Hulk estÃ© al mando en ese momento (el Hulk Banner es el mÃ¡s dÃ©bil, pero lo compensa con su inteligencia).",
+        habilidades: "",
         img: "assets/img/hulk.png",
         aparicion: "1962-05-01",
         casa:"Marvel",
@@ -49,7 +52,8 @@
       },
       {
         nombre: "Linterna Verde",
-        bio: "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sÃ³lida mediante la utilizaciÃ³n del pensamiento. Es alimentado por la Llama Verde (revisada por escritores posteriores como un poder mÃ­stico llamado Starheart), una llama mÃ¡gica contenida en dentro de un orbe ",
+        resumen: "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sÃ³lida mediante la utilizaciÃ³n del pensamiento. Es alimentado por la Llama Verde (revisada por escritores posteriores como un poder mÃ­stico llamado Starheart), una llama mÃ¡gica contenida en dentro de un orbe ",
+        habilidades: "",
         img: "assets/img/linternaV.png",
         aparicion: "1940-06-01",
         casa: "DC",
@@ -57,7 +61,8 @@
       },
       {
         nombre: "Spider-Man",
-        bio: "Tras ser mordido por una araÃ±a radiactiva, obtuvo los siguientes poderes sobrehumanos, una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider-Man le permite levantar 10 toneladas o mÃ¡s. Gracias a esta gran fuerza Spider-Man puede realizar saltos Ã­ncreibles.",
+        resumen: "Tras ser mordido por una araÃ±a radiactiva, obtuvo los siguientes poderes sobrehumanos, una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider-Man le permite levantar 10 toneladas o mÃ¡s. Gracias a esta gran fuerza Spider-Man puede realizar saltos Ã­ncreibles.",
+        habilidades: "",
         img: "assets/img/spiderman.png",
         aparicion: "1962-08-01",
         casa: "Marvel",
@@ -65,12 +70,16 @@
       },
       {
         nombre: "Wolverine",
-        bio: "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que Ã©sta sea, ademÃ¡s ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres . Posee tambiÃ©n una fuerza sobrehumana, que si bien no se compara con la de otros superhÃ©roes como Hulk, sÃ­ sobrepasa la de cualquier humano.",
+        resumen: "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que Ã©sta sea, ademÃ¡s ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres . Posee tambiÃ©n una fuerza sobrehumana, que si bien no se compara con la de otros superhÃ©roes como Hulk, sÃ­ sobrepasa la de cualquier humano.",
+        habilidades: "",
         img: "assets/img/wolverine1.png",
         aparicion: "1974-11-01",
         casa: "Marvel",
         wiki:``
-      }
+      },
+      
+
+
     ];
 
     constructor(){
@@ -104,12 +113,12 @@
 
   export interface Heroe{
     nombre:string;
-    bio:string;
+    resumen:string;
     img:string;
     aparicion:string;
     casa:string;
     wiki:string;
-
+    habilidades:string;
  }
 
 
